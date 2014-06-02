@@ -1,0 +1,7 @@
+*~
+*.[ao]
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+chatter
